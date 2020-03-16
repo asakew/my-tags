@@ -1,4 +1,5 @@
 # email-yaratish
+Github Page: https://asakew.github.io/tags/email-yaratish
 
 ## uz-UZ
 email,
